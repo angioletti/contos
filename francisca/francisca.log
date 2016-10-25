@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.8.24)  19 SEP 2016 22:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.8.24)  25 OCT 2016 00:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -273,20 +273,21 @@ LaTeX Font Info:    ... okay on input line 6.
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 [2] [3] [4] [5] [6] (./francisca.aux) ) 
 Here is how much of TeX's memory you used:
- 664 strings out of 495020
- 6274 string characters out of 6181324
+ 666 strings out of 495020
+ 6299 string characters out of 6181324
  56900 words of memory out of 5000000
- 3937 multiletter control sequences out of 15000+600000
- 6255 words of font info for 18 fonts, out of 8000000 for 9000
+ 3938 multiletter control sequences out of 15000+600000
+ 6944 words of font info for 19 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 23i,5n,19p,1224b,121s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,5n,19p,874b,121s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/luizangioletti/.texmf-var/fonts/
-pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/luizangioletti/.texmf-var/fonts/pk
-/ljfour/jknappen/ec/ecbx2488.600pk>
-Output written on francisca.pdf (6 pages, 44285 bytes).
+pk/ljfour/jknappen/ec/ecti1095.600pk> </home/luizangioletti/.texmf-var/fonts/pk
+/ljfour/jknappen/ec/ecrm1095.600pk> </home/luizangioletti/.texmf-var/fonts/pk/l
+jfour/jknappen/ec/ecbx2488.600pk>
+Output written on francisca.pdf (6 pages, 51376 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
+ 140 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
